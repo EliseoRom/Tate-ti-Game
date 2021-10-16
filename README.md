@@ -4,7 +4,7 @@
 ## Hello, this is one of my first practice projects, I used the technologies: React, Js, CSS
 
 In the project directory, you can run:
-
+### `npm install`
 ### `npm start`
 
 Runs the app in the development mode.\
