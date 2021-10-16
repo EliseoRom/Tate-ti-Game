@@ -1,0 +1,9 @@
+/* ESTILO DE LOS CUADRADOS- COLOCAR LAS COLUMNAS UNA ABAJO DE LA OTRA  */
+.board {
+    display: flex;
+    flex-direction: column;
+}
+
+.row {
+    display: flex;
+}
