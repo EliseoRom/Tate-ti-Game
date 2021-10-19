@@ -1,6 +1,6 @@
 # Tate Ti Simple Game
 
-# You can play by going to the deploy link
+## You can play by going to the deploy link
 
 https://tate-ti-game.vercel.app/
 
